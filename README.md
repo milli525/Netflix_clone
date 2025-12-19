@@ -5,8 +5,10 @@ Netflix UI Clone – Frontend Focus A high-fidelity recreation of the Netflix la
   https://github.com/milli525/Netflix_clone
   <br>
   📸 Preview
- <img width="1340" height="567" alt="The hero banner" src="https://github.com/user-attachments/assets/58a5e362-15be-43d2-82be-5f4220464d95" />
+  <br>
+  <img width="1366" height="461" alt="Hero" src="https://github.com/user-attachments/assets/7a49879b-d0cb-44f6-a2cc-0b44c1cb611b" />
 <br>
+ 
 <img width="1001" height="593" alt="Movie Grid" src="https://github.com/user-attachments/assets/034c5704-1e95-4ee9-ba78-0179a0653d8f" />
 <br>
 ✨ Key Features
@@ -17,7 +19,8 @@ Netflix UI Clone – Frontend Focus A high-fidelity recreation of the Netflix la
  <br>
  🛠️ Technical Highlights
  <br>
- Positioning: sticky and absolute positioning for the navigation bar and overlay gradients. <br>
+ Positioning: sticky and absolute positioning for the navigation bar and overlay gradients.
+ <br>
  Transitions & Transforms: transform: scale() and transition for smooth hover animations on movie cards.<br>
  Linear Gradients: To create the signature "fade-to-black" effect over movie posters.
  
